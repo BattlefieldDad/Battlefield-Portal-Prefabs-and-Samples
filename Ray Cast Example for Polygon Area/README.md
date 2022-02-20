@@ -11,7 +11,7 @@ This gives a good overview of the principle behind it, however the code provided
 Enter this algorithm by w.Randolph Franklin
 https://wrf.ecse.rpi.edu/Research/Short_Notes/pnpoly.html
 
-Although there are some minor issues with this algorithm, given its sinplicity, it seemed perfectly suited to this use case.
+Although there are some minor issues with this algorithm, given its simplicity, it seemed perfectly suited to this use case.
 
 I have used this algorithm (with some modifications to allow for the portal rules editor as well as to allow position to be matched against the player and also allow other portal creators an easier method of setting their own areas)
 
